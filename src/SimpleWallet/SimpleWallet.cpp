@@ -684,7 +684,7 @@ bool simple_wallet::new_wallet(const std::string &wallet_file, const std::string
 
   success_msg_writer() <<
     "**********************************************************************\n" <<
-    "Your wallet has been generated.\n" <<
+    "Your Schmeckles wallet has been generated.\n" <<
     "Use \"help\" command to see the list of available commands.\n" <<
     "Always use \"exit\" command when closing simplewallet to save\n" <<
     "current session's state. Otherwise, you will possibly need to synchronize \n" <<
