@@ -1,6 +1,6 @@
-## Building Schmeckles 
+## Building Schmeckles #
 
-### On *nix
+### On Linux
 
 Dependencies: GCC 4.7.3 or later, CMake 2.8.6 or later, and Boost 1.55.
 
